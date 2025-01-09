@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-express-demo",
+  "private": true,
+  "description": "A HelloWorld Node.js app using Express",
+  "engines": {
+    "node": "18.x || 20.x || 22.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.0.1"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
