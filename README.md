@@ -1,5 +1,5 @@
 # NodeJs Express示例应用
-此应用是一个快速入门示例，用于展示如何使用Buildpacks构建NodeJs应用
+此应用是一个快速入门示例，用于展示阿里云应用管理如何使用Buildpacks构建部署NodeJs应用
 
 # 在阿里云应用管理上部署应用
 阿里云应用管理（[系统运维管理控制台入口](https://oos.console.aliyun.com/app)、[云服务器控制台入口](https://ecs.console.aliyun.com/app)、[计算巢控制台入口](https://computenest.console.aliyun.com/app)）支持通过Git代码仓库部署应用。
@@ -19,5 +19,5 @@
 安装依赖：`npm install --registry=https://registry.npmmirror.com express`
 
 运行应用：在应用代码所在目录，执行`npm start`
-打开浏览器，访问`http://localhost`，会显示Hello World
+打开浏览器，访问`http://localhost`
 
